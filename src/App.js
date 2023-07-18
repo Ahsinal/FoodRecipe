@@ -8,7 +8,7 @@ function App() {
     <div className="main">
       <Header/>
       <Tabs/>
-      {/* <Recipelist/> */}
+      <Recipelist/>
     </div>
   );
 }
